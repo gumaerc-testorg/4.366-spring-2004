@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides seven examples of student work from this class.
+  Each is courtesy of the student named, and used with permission.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
